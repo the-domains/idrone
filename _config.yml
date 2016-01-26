@@ -1,0 +1,28 @@
+name: Idrone
+favicon: null
+layout_spectrum: 0.11935686832293868
+typography_spectrum: 0.02398467157036066
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.0655607245862484
+  lightness: 0.8339567212387919
+  saturation: 0.8571134677622467
+  rhythmicContrast: 0.04714861768297851
+purpose: []
